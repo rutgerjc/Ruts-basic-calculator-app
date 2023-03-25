@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ruts basic calculator app</string>
+    <string name="calc_text">123456</string>
+</resources>
